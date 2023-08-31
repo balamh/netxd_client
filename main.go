@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log"
 
-	// pb "github.com/netxd/project1/netxd_customer"
+	pb "github.com/balamh/project1/netxd_customer"
 	"google.golang.org/grpc"
 )
 func main(){
